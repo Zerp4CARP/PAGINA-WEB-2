@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    background-color: blue;
+    height: 600px;
+    width: 400px;
+    text-align: center;
+    border: 6px solid; 
+    margin: 0 auto;
+    border-radius: 4;
+
+}
+
+.C4rd{
+    background-color: brown;
+    height: 600px;
+    width: 400px;
+    text-align: center;
+    border: 6px solid;
+    margin: 0 auto;
+
+}
+
+.CARD{
+    background-color: gold;
+    height: 600px; 
+    width: 400px;
+    text-align: center;
+    border: 6px solid;
+    margin: 0 auto;
+
+}
+
+section{
+    margin: 34px;
+}
+
+a{
+    color: yellowgreen;
+    font-size: medium;
+    text-decoration: none;
+    
+    
+}
+
+nav li{
+    display: inline;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+    
+}
+
+.color1{
+    color: white;
+}
+
+.color2{
+    color: black;
+}
+
+
